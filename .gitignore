@@ -197,3 +197,6 @@ music-converter-env/
 # Test output
 test_output/
 test_results/
+
+# ytmusicapi
+oauth.json
